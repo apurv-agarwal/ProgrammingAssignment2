@@ -1,3 +1,4 @@
+Don't let anyone spam
 ### Introduction
 
 This second programming assignment will require you to write an R
